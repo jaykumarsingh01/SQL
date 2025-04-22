@@ -1,3 +1,7 @@
+# -------------------------
+
+
+
 CREATE DATABASE havingclause;
 
 USE havingclause;
@@ -27,3 +31,19 @@ select city, count(rollno)
 from clause
 group by city
 having max(marks)>90;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                           # Jay Kumar Singh
